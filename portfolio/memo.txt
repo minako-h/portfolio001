@@ -1,3 +1,0 @@
-reset.css取得先
-https://piccalil.li/blog/a-more-modern-css-reset/
-上記を反映したものの、一部styleがresetされていなかったので、授業内のcssファイルの読み込みも追加で行う。
