@@ -1,9 +1,9 @@
 # portfolio
 
 Top / Home
-	∟Profile
-	∟Works
-		∟Banner
-		∟LP
-		∟Logo
-	∟Contact
+*Profile
+*Works
+	*Banner
+	*LP
+	*Logo
+*Contact
